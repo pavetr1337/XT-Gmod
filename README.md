@@ -18,6 +18,9 @@ External C++ hack for x64 GMod
   - [ ] Name
   - [x] Health
   - [x] Custom ESP colors
+- Lists
+  - [ ] Entity list
+  - [ ] Players list
 - Settings
   - [x] Bunny Hop
   - [x] Exit program on END key
